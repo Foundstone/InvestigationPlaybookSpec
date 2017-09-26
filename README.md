@@ -6,6 +6,8 @@ The main goal of these extensions is to provide some structure to the investigat
 
 On the following sections we explain some of the extensions as well as the basic investigation playbook structure that we use. On this repository you will also find a coupe of example playbooks that use this spec.
 
+To see an implementation of this specification see *[Threat Hunting Expert Investigation Guides](https://github.com/Foundstone/ExpertInvestigationGuides/tree/master/ThreatHunting)*
+
 ## Table of content
 1.  [Investigation playbook structure](#investigation-playbook-structure)
 1.  [Markdown conventions for investigation playbooks](#markdown-conventions-for-investigation-playbooks)
